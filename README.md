@@ -1,1 +1,1 @@
-# jinkensfile-snippets
+# jenkinsfile-snippets
